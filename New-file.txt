@@ -1,0 +1,3 @@
+Welcome to Visual Studio Code.
+Created New-file.txt.
+Adding some records to file.
